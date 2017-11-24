@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P_54_Pref_Cansina</string>
+    <string name="action_settings">Settings</string>
+    <string name="Cabezera">Esta aplicación solo recuerda el número de veces que se ha abierto</string>
+    <string name="text_button">Finalizar App</string>
+    <string name="text_result">Abierto %s veces</string>
+    <string name="clave">veces</string>
+</resources>
